@@ -20,7 +20,7 @@ title                    : "Soooohyun's Blog "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Soooohyun"
-description              : # description Blog or user
+description              : Jekyll Theme Minimal Resume # description Blog or user
 url                      : "https://Soooohyun.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
