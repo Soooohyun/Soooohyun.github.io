@@ -28,5 +28,5 @@ int main() {
 		S.pop();
 	}
 
-	printf("%d\", sum);
+	printf("%d", sum);
 }
